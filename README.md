@@ -16,13 +16,6 @@
 
 ---
 
-## 🗼️ Screenshots
-
-> *(Add screenshots of GUI here for better visibility)*
-> You can use any Java GUI like Swing or JavaFX (currently using **Swing**).
-
----
-
 ## 🗂️ Project Structure
 
 ```
